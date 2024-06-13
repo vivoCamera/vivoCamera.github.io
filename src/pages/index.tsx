@@ -71,11 +71,11 @@ export default function Home() {
             title='[CVPR2024] Multi-Task Dense Prediction via Mixture of Low-Rank Experts'
             text='Yuqi Yang, Peng-Tao Jiang, Qibin Hou, Hao Zhang, Jinwei Chen, Bo Li'
             image='/mlore.png' />
-          <ProjectCard
+          {/* <ProjectCard
             href='https://github.com/aim-uofa/DiverGen'
             title='[CVPR2024] DiverGen: Improving Instance Segmentation by Learning Wider Data Distribution with More Diverse Generative Data'
             text='Chengxiang Fan, Muzhi Zhu, Hao Chen, Yang Liu, Weijia Wu, Huaqi Zhang, Chunhua Shen'
-            image='/divergen.png' />
+            image='/divergen.png' /> */}
           <ProjectCard
             href='https://arxiv.org/abs/2403.01666'
             title='[ICML2024] Improving Adversarial Energy-Based Model via Diffusion Process'
