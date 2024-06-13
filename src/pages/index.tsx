@@ -81,9 +81,9 @@ export default function Home() {
             title='[ICML2024] Improving Adversarial Energy-Based Model via Diffusion Process'
             text='Cong Geng, Tian Han, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Søren Hauberg, Bo Li'
             image='dp.png' />
-          <p className={styles.title2}>指导专家/sponsor</p>
+          {/* <p className={styles.title2}>指导专家/sponsor</p>
           <div className={styles.underline}></div>
-          <Expert/>
+          <Expert/> */}
           <p className={styles.title2}>论文作者</p>
           <div className={styles.underline}></div>
           <Team />
